@@ -35,14 +35,7 @@ export default function Home() {
         >
           Generate Another Picture
         </button>
-        <a
-          href="https://mofundo1.github.io/random-picture-generator/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block mt-4 text-blue-500 hover:text-blue-700"
-        >
-          Request a Signed Copy
-        </a>
+        {/* Removed Google Form Link */}
       </main>
     </div>
   )
