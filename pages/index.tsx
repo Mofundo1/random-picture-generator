@@ -36,7 +36,7 @@ export default function Home() {
           Generate Another Picture
         </button>
         <a
-          href="https://forms.gle/yourGoogleFormLink"
+          href="https://mofundo1.github.io/random-picture-generator/"
           target="_blank"
           rel="noopener noreferrer"
           className="block mt-4 text-blue-500 hover:text-blue-700"
